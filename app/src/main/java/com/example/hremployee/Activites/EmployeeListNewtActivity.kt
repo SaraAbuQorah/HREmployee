@@ -22,7 +22,7 @@ class EmployeeListNewtActivity : AppCompatActivity() {
         listRecyclerView=findViewById(R.id.listRecyclerView)
         listRecyclerView.layoutManager = GridLayoutManager(this, 1)
         listRecyclerView.setHasFixedSize(true)
-        mylist.add(EmployeeListNewClass("Sara Abu Qorah ", R.drawable.ic_person))
+        mylist.add(EmployeeListNewClass("Sara Abu Qorahh ", R.drawable.ic_person))
         mylist.add(EmployeeListNewClass("Sami Sami ", R.drawable.ic_person))
         mylist.add(EmployeeListNewClass("Hind Abu Qorah ", R.drawable.ic_person))
         mylist.add(EmployeeListNewClass("khaled saad ", R.drawable.ic_person))
