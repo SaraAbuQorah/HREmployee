@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Employee"
+        android:icon="@drawable/femp"
+        android:title="Employee"  />
+    <item
+        android:id="@+id/Schedule"
+        android:icon="@drawable/semp"
+        android:title="Attitude" />
+    <item
+        android:id="@+id/Leave"
+        android:icon="@drawable/exsitemp"
+        android:title="Leave" />
+    <item
+        android:id="@+id/Write"
+        android:icon="@drawable/doc"
+        android:title="Document" />
+    <item
+        android:id="@+id/Notification"
+        android:icon="@drawable/ic_baseline_notifications_24"
+        android:title="Notification" />
+
+</menu>

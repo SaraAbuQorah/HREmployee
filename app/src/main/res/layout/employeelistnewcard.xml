@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="70dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cardViewEmpList"
+    android:backgroundTint="@color/Dark_Silver"
+    android:layout_margin="5dp"
+    app:cardCornerRadius="16dp"
+    app:cardElevation="3dp"
+    app:contentPadding="4dp">
+
+    <LinearLayout
+        android:id="@+id/linearcardview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        tools:ignore="MissingConstraints">
+
+        <ImageView
+            android:id="@+id/imgcardview1"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_marginTop="12dp"
+            android:padding="4dp"
+            android:background="@drawable/white_border"
+            android:src="@drawable/ic_person"
+
+            />
+            <TextView
+                android:id="@+id/textcardview2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/black"
+                android:layout_marginStart="15dp"
+                android:textStyle="bold"
+                android:text="Yasmeen Ezzelddin Mesmar "
+                />
+
+    </LinearLayout>
+
+
+</androidx.cardview.widget.CardView>

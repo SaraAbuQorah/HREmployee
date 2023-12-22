@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "694017469433",
+    "project_id": "hremployee-46447",
+    "storage_bucket": "hremployee-46447.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694017469433:android:d34b49b9c8f032c8416b28",
+        "android_client_info": {
+          "package_name": "com.example.hremployee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694017469433-3fa7r0jnofdu8jqrcvchqihahk1put9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvKPPfvPY7m5samb6_BieBTlYlRte68i0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694017469433-3fa7r0jnofdu8jqrcvchqihahk1put9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
